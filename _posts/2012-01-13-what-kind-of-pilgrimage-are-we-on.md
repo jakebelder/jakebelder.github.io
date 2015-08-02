@@ -1,0 +1,22 @@
+---
+layout: post
+title: What kind of pilgrimage are we on?
+date: 2012-01-13 10:09
+tags:
+- eschatology
+- faith
+- holy-spirit
+- jesus-christ
+- redemption
+- sin
+---
+<p>This past Sunday I preached on <a href="http://biblia.com/bible/niv/1Ch29.1-20">1 Chronicles 29:1-20</a>, and in that passage David refers to the people of Israel as "aliens and strangers" in God's sight (v. 15). Although in that context the phrase has a different connotation than what we typically understand it to mean, this is common language in the Bible, both in the Old and New Testaments. The most common reference in the latter is probably found in Peter's letter (<a href="http://biblia.com/bible/niv/1Pe2.11">1 Pet. 2:11</a>).</p>
+<p>While I think this idea is certainly helpful for us to keep in mind (given that it is a biblical metaphor), there is also a danger in such a perspective leading to an eschatology shaped by escapism. Indeed, many evangelicals are quick to say that we are pilgrims in this world on our way to heaven. "We're just passing through," is the common catch-phrase of those who adhere to the sentiment.</p>
+<div style="float: right; margin: 5px 1px 0px 20px; width: 430px; height: 322px;"><img src="https://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/backpacker.jpg" /></div>
+<p>Here's the thing, though &ndash; in one sense, we're not going anywhere. As I've said before, the history of God's redemption of his people is a pattern of <a href="http://jakebelder.com/god-comes-to-us">God coming to us</a>. The future of God's people is not some disembodied, ethereal existence. Our new Promised Land is "the Holy City, the new Jerusalem, <em>coming down out of heaven</em> from God" (<a href="http://biblia.com/bible/niv/Re21.2">Rev. 21:2</a>). As Peter says, on the day of the Lord, "the earth and everything in it will be laid bare" (<a href="http://biblia.com/bible/niv/2Pe3.10">2 Pet. 3:10</a>) in preparation for this Holy City.</p>
+<p>In what sense are we aliens and strangers and pilgrims, then? One way of understanding this does tie the physical world, despite what I've just said. While this world is our home, we are aliens and strangers in it at the present time because our home has been occupied by a foreign enemy. It has become a wilderness; the presence of sin and the kingdom of darkness has obscured the inherent goodness of God's creation and made it unrecognisable. But we don't wait to escape from this wilderness. We wait instead for the Promised Land that God brings down to us after he purifies his creation from sin.</p>
+<p>There is a spiritual element to this as well, though. We are pilgrims on a journey to a spiritual destination. Through the death and resurrection of Christ, we have new life (<a href="http://biblia.com/bible/niv/Ro6">Rom. 6</a>, <a href="http://biblia.com/bible/niv/Col3">Col. 3</a>). By the power of the indwelling Spirit, we are given strength to put to death the old self, and to live holy and righteous lives (<a href="http://biblia.com/bible/niv/Jn14.15-31">John 14:15-31</a>, <a href="http://biblia.com/bible/niv/Ro8">Rom. 8</a>). On the day that Christ returns, we will be glorified &ndash; made like him (<a href="http://biblia.com/bible/niv/1Co15.51-57">1 Cor. 15:51-57</a>, <a href="http://biblia.com/bible/niv/Php1.6">Phil. 1:6</a>).</p>
+<p>Right now we remain in the wilderness of sin, wandering through it in the pursuit of holiness, longing and yearning for the fulness of Christ's redemption as we see sin wreak havoc in our lives and in our world. As Peter reminds us in 1 Peter 2:11, we need remember who we are so that we do not fall into sin and allow ourselves to be comfortable in this occupying kingdom. Instead, we follow the lead of our God towards that day when he fulfils his promise to forgive our wickedness and remember our sins no more (<a href="http://biblia.com/bible/niv/Je31.31-34">Jer. 31:34</a>), and to wipe every tear from our eyes. "There will be no more death or mourning or crying or pain, for the old order of things has passed away" (<a href="http://biblia.com/bible/niv/Re21.1-4">Rev. 21:4</a>).</p>
+<p>The Promised Land that awaits us is God's good creation restored and glorified, a place where his people will dwell in his presence forever and where they, having been glorified, will be free from sin and flourish as they live the life that he intends for his people.</p>
+
+That's a Promised Land to look forward to. That's a pilgrimage worth making.

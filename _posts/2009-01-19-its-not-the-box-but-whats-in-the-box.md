@@ -1,0 +1,13 @@
+---
+layout: post
+title: It's not the box, but what's in the box
+date: 19 January 2009 06:12
+tags:
+- church
+- ecclesiology
+---
+<div style="float: right; margin: 5px 1px 0px 0px; width: 363px; height: 331px;"><img src="https://dl.dropboxusercontent.com/u/3897986/Jake%20Blog%20Images/cardboardbox.jpg" /></div>
+<p>When you buy an object from the store and it comes in a box, its original packaging is usually good.  The box is in excellent condition, everything is wrapped up and placed inside as it should be.  However, at some point you may need to repackage the box.  Sometimes when that box gets shipped from place to place, it gets bounced around and it can get damaged&mdash;a cut in the side of the box, smashed corners, and so on.  One person may just tape up the box, with the thought in mind that all it needs is a slight repair.  Another may think that a scarred box is worthless, and toss it out in favor of a new box.  Maybe that box appears nicer and more sturdy than the original, or perhaps the object does not quite fit inside as it should.  Perhaps someone wants to adorn the box with wrapping paper in an effort to pretty it up, but may end up (as with anything I wrap) making it look worse than the plain cardboard box.  Maybe the object needs to be placed in a box of a different size in order to make it fit somewhere properly.  Whatever the case, various types of packaging can be used equally well to contain the object, which is ultimately the function of the box.</p>
+<p>The point here is not the packaging, but the content or object inside the package.  See, there is a lot of talk out there of "repackaging the Church." Whatever you make of it, I am sure that most of it is done with an honest heart and the best of intentions and that the aim of these efforts is nothing less than to make Christ known and to glorify God.  And while I am not going to argue that the packaging is important (that's another discussion), the content or object of that packaging, the Church, is what is of primary importance.</p>
+
+When we talk of new ways of doing things, alternative methods, different strategies, relevance, reclaiming originality and so on, let's not lose sight of <span style="font-style: italic;">what</span> we are talking about, the object of our conversation, the bride of Christ.  It's not the box, but what's in the box.  We can be confident that no matter how we package the object, for good or for ill, the object never changes and will never be lost or damaged.  The promise of Jesus stands forever: "I will build my church, and the gates of hell shall not prevail against it" (Matt. 16:18).

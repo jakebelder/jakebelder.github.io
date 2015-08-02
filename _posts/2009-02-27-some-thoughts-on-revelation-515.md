@@ -1,0 +1,31 @@
+---
+layout: post
+title: Some thoughts on Revelation 5:1-5
+date: 27 February 2009 05:46
+tags:
+- jesus-christ
+- redemption
+- scripture
+---
+<p>The first five verses of the fifth chapter of the book of Revelation read:</p>
+
+<blockquote>
+Then I saw in the right hand of him who was seated on the throne ﻿a scroll written within and on the back, ﻿sealed with seven seals.  And ﻿I saw a strong angel proclaiming with a loud voice, 'Who is worthy to open the scroll and break its seals?'  And no one in heaven or on earth or under the earth was able to open the scroll or to look into it,  and I began to weep loudly because no one was found worthy to open the scroll or to look into it.  And one of the elders said to me, 'Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals.</blockquote>
+
+<p>Though there is some debate about what the scroll or book actually contains, <a href="http://www.wheaton.edu/Theology/Faculty/beale/">Greg Beale</a>, in his <a href="http://www.amazon.com/Book-Revelation-Commentary-International-Testament/dp/080282174X/ref=sr_11_1/185-8818896-1829029?ie=UTF8&amp;qid=1235699845&amp;sr=11-1">massive commentary of Revelation</a>, says the best interpretation is that the book contains God's plan of redemption and judgment, and can therefore be understood as also containing our covenantal inheritance.  With that in view, I read the passage and passed over it without much of a thought because it was the sort of obvious conclusion that a Christian would come to&mdash;naturally, only Christ is worthy to open the scroll; He is sovereign over the unfolding of all these things.</p>
+<p>But reading it again, I found myself a little perplexed.  Why does the angel even ask the question in the first place?  It seems entirely rhetorical.  To an angel who dwells in the presence of God in heaven, there would be no lack of certainty that the answer is Jesus Christ.  In <a href="http://www.amazon.com/Behold-Cometh-Exposition-Book-Revelation/dp/0916206653/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1235700065&amp;sr=8-1">his commentary </a>on the book, <a href="http://en.wikipedia.org/wiki/Herman_Hoeksema">Herman Hoeksema</a> makes the point that the angel is not so much asking a question as issuing a challenge.  I don't know enough about the Greek text to know if his point stands, but none of the other commentaries I consulted make that point.  <a href="http://www.nd.edu/%7Edaune/">David Aune</a>, in his <a href="http://www.amazon.com/Revelation-1-5-Word-Biblical-Commentary/dp/0849902517/ref=sr_1_6?ie=UTF8&amp;s=books&amp;qid=1235700015&amp;sr=8-6">commentary on Revelation</a>, states that the term "worthy" here is not just a search for someone who is <span style="font-style: italic;">able</span> to open the book, but one who is <span style="font-style: italic;">qualified</span>.  I suppose this could be construed as a challenge.  If the angel is indeed issuing a challenge, the question makes more sense.</p>
+<p>I also found John's weeping to be confusing.  This same John, whose purpose in writing his gospel was that "you may believe that Jesus is the Christ, the Son of God, and that by believing ﻿you may have life﻿ in his name" (John 20:31), seems to here be stumbling over what should have been a simple conclusion to him.  Beale argues that perhaps John actually is stumbling here, and he begins to weep because, having put his faith in Christ to carry out the plan of redemption, he now hears only silence and does not see Christ coming forward to open the scroll to reveal the revelation that was promised to him.</p>
+<p>Ultimately, I think, the passage is here for our edification, as it emphasizes a point that resounds throughout Scripture: the plan of redemption is only carried out by and through Jesus Christ.  The commentaries I consulted offered some helpful thoughts.  In regards to the angel's question, <a href="http://www.amazon.com/Book-Revelation-Exposition-Originally-Commentaries/dp/0851512569/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1235700116&amp;sr=8-1">James B. Ramsey</a> makes this point:</p>
+
+<blockquote>
+[The proclamation of the angel] is intended to show the immense difficulties of this administration, and the folly of dependence on any created power to advance the interests of the kingdom.  This proclamation is uttered by a mighty angel, with a loud voice, so that every thing in the whole range of created being might hear it, and the utter incompetency of all for the mighty task be made manifest, and acknowledged (287).
+</blockquote>
+
+<p>Not only are there a multitude of other religions that claim to offer paths to redemption, but mankind has also always looked for different ways to bring about his own salvation.  The thunderous voice of the angel could just as well have made a statement instead of posing a question: "No one is worthy to open this scroll!"  Hoeksema agrees and says, "the silence of the angels in response is a testimony to their unworthiness.  The silence is also symbolic of all our efforts to accomplish the task of redemption on our own" (170).</p>
+<p>What about John's weeping?  Maybe, as Beale suggests, he did in fact have a momentary lapse of faith.  Regardless, Ramsey rightly says that John's weeping is indicative of our being doomed to weeping if we look to anything or anyone else besides the Lamb of God for the fulfillment of God's plan of redemption.  Only the Lamb can open the seals.  Writes Beale,</p>
+
+<blockquote>
+Once the seals are opened, the readers can understand the decretive nature of the book and, therefore, the purpose of history.  They can discern that even 'their sufferings are according to the will of God' and can be comforted by 'entrusting their souls to him,' since he employs suffering to 'perfect, confirm, strengthen, and establish' them (1 Pet. 4:19; 5:10). Despite the chaos and confusion of the world, there is an ordered eschatological plan, which cannot be thwarted and is, indeed, already being fulfilled (342).
+</blockquote>
+
+In John's vision, all attention in heaven and on earth is directed at the Lamb of God, the Lord Jesus Christ.  So our eyes too must be fixed on Him, for only He is worthy to take the scroll and open the seals.

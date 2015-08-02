@@ -1,0 +1,26 @@
+---
+layout: post
+title: Ryle on churchmanship and unity
+date: 11 September 2010 05:54
+tags:
+- church-of-england
+- confessionalism
+- unity
+- j-c-ryle
+- ecclesiology
+- theology
+---
+<p>In the past couple of weeks I have been casually reading a collection of essays and lectures by <a href="http://en.wikipedia.org/wiki/J.C._Ryle">J.C. Ryle</a>, entitled <a href="http://www.amazon.com/Statements-Disputed-Standpoint-Evangelical-Churchman/dp/1151136840/ref=tmm_pap_title_0"><em>Knots Untied; Being Plain Statements on Disputed Points in Religion From the Standpoint of an Evangelical Churchman</em></a>, which I checked out of the library after reading an old article by Peter Toon on Ryle's <a href="http://www.churchsociety.org/churchman/documents/Cman_089_4_Toon.pdf">perspective on churchmanship</a>. When he became bishop of Liverpool in 1880, he sent out a letter to all the clergy under his care with this request:</p>
+<blockquote>
+I ask you to assist me by cultivating and encouraging a spirit of brotherly love, charity and forbearance among Churchmen. In a fallen world like ours, and in a free country like England, it is vain to expect all men to see all things alike and to interpret the language of the formularies precisely in the same way. Let us on no account be colourless Christians, destitute of any distinct opinions. But so long as any brother walks loyally within the limits of the Articles and the Prayer Book, let us respect him and treat him courteously, even when we do not altogether agree with him.
+</blockquote>
+<p>Ryle had a profound concern for unity within the <a href="http://cofe.anglican.org">Church of England</a>, but he consistently maintained that it had to be a principled unity, rooted in the adherence to the <a href="http://en.wikipedia.org/wiki/Thirty-Nine_Articles">39 Articles of Religion</a> and the Prayer Book. In an essay on the Articles in <em>Knots Untied</em>, Ryle notes that in his day, many looked to the Prayer Book alone as "the real measure and gauge of a Churchman" (53), in many cases entirely disregarding the Articles. Of course, the Prayer Book was never intended to be the doctrinal standard of the Church of England; Ryle points to the original title of the Articles given by Thomas Cranmer himself: "Articles agreed upon for the avoiding of Diversities of Opinion, and for the stablishing of Consent touching true Religion."</p>
+<p>A committed evangelical, Ryle nevertheless maintained that in the Church of England one did not have to be an evangelical to be a Christian, a position which some evangelicals in his day were taking. In his <a href="http://www.powells.com/biblio/61-9781146875509-0"><em>Principles for Churchmen</em></a>, he wrote that the Church of England, as a national church, had to be comprehensive, but with certain boundaries defining the limits of that comprehensiveness:</p>
+<blockquote>
+Those limits, I believe, are to be found in the Articles, the Creeds and the Book of Common Prayer... They are documents, no doubt, which all do not interpret alike. As long as the world stands, and as long as language is what it is, you will never get men to place precisely the same meaning on theological phrases and words. But, however variously we may interpret the Articles, the Creeds and the Prayer Book, they are unmistakable limits, fences and bounds within which the National Church requires its ministers to walk, and he that flatly rejects them, denies them, contradicts them, and transgresses them is in his wrong place inside the Church of England.
+</blockquote>
+<p>Attempts at unity today rarely demonstrate such firm committment to doctrinal unity as Ryle speaks of. The perception usually being that doctrine is what divides the church, most seek unity elsewhere, taking something of a lowest common denominator approach. For Ryle, this was the problem with those in the Church of England who sought unity apart from the doctrinal foundation laid out by the 39 Articles.</p>
+<p>This is not just a question the Church of England has to deal with, but one that every denomination, federation, or network has to address. For the last several years, I have been part of a Presbyterian church, and the doctrinal standard here is the Westminster Standards. The interesting thing with the Standards is that they are far more detailed than the 39 Articles, and so the question for Presbyterian churchmen is not just whether or not they adhere to the Standards, but to what degree. Some maintain that it must be a strict subscription, confessing adherence to every single part of the Standards, while others argue for some breathing room on various points. It seems, however, that the unity Ryle looks for is quite a bit broader than the Presbyterians I know. I'll return to this in a later post, because this is where it becomes really tricky.</p>
+<p>If you have read this blog for any length of time, you know that the question of unity is one I think of often. Ryle intrigues me for this reason. If we are being honest, we must admit that often people with theological convictions like Ryle, those of an orthodox and Reformed perspective, do not share his passion for unity.</p>
+
+For now, these are largely just musings. Defining churchmanship and unity are very big questions that a simple blog post will not answer adequately.

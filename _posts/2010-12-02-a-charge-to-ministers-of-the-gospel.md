@@ -1,0 +1,29 @@
+---
+layout: post
+title: A charge to ministers of the gospel
+date: 02 December 2010 08:06
+tags:
+- anglicanism
+- bcp
+- church-of-england
+- church
+- faith
+- ministry
+- thomas-cranmer
+---
+<div style="float: right; margin: 5px 1px 0px 20px; width: 275px; height: 367px;"><img src="https://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/Reims_Cathedral_pulpit.jpg" /></div>
+<p>During the past month, I have taken time to read through portions of the <em><a href="http://en.wikipedia.org/wiki/Book_of_Common_Prayer">Book of Common Prayer</a></em>. The almost timeless language of the BCP deeply impresses me, and <a href="http://en.wikipedia.org/wiki/Thomas_Cranmer">Cranmer's</a> diligence in choosing the words and carefully crafting the phrasing of the Prayer Book does not allow the reader to take these things lightly.</p>
+<p>One part of the BCP that struck me was the charge given by the bishop to priests upon their ordination. This charge contains some of the most challenging words I have read as I prepare to begin my service as a minister of the church. It is taken from the 1662 edition:</p>
+<blockquote>
+You have heard, brethren, as well in your private examination, as in the exhortation which was now made to you, and in the holy Lessons taken out of the Gospel (Matthew 9:36-38, John 10:1-16) and the writings of the Apostles (Ephesians 4:7-13), of what dignity and of how great importance this office is, whereunto ye are called. And now again we exhort you, in the Name of our Lord Jesus Christ, that you have in remembrance, into how high a dignity, and to how weighty an office and charge ye are called: that is to say, to be messengers, watchmen, and stewards of the Lord; to teach and to premonish, to feed and to provide for the Lord's family; to seek for Christ's sheep that are dispersed abroad, and for his children who are in the midst of this naughty world, that they may be saved through Christ for ever.<br><br>
+
+Have always therefore printed in your remembrance, how great a treasure is committed to your charge. For they are the sheep of Christ, which he bought with his death, and for whom he shed his blood. The Church and Congregation whom you must serve, is his spouse and his body. And if it shall happen the same Church, or any member thereof, to take any hurt or hindrance by reason of your negligence, ye know the greatness of the fault, and also the horrible punishment that will ensue. Wherefore consider with yourselves the end of your ministry towards the children of God, towards the spouse and body of Christ; and see that you never cease in your labour, your care and diligence, until you have done all that lieth in you, according to your bounden duty, to bring all such as are or shall be committed to your charge, unto that agreement in the faith and knowledge of God, and to that ripeness and perfectness of age in Christ, that there be no place left among you, either for error in religion, or for viciousness in life.<br><br>
+
+Forasmuch then as your office is both of so great excellency and of so great difficulty, ye see with how great care and study ye ought to apply yourselves, as well that ye may shew yourselves dutiful and thankful unto the Lord, who hath placed you in so high a dignity; as also to beware that neither you yourselves offend, nor be occasion that others offend. Howbeit, ye cannot have a mind and will thereto of yourselves; for that will and ability is given of God alone. Therefore ye ought, and have need, to pray earnestly for his Holy Spirit. And seeing that you cannot by any other means compass the doing of so weighty a work, pertaining to the salvation of man, but with doctrine and exhortation taken out of the holy Scriptures, and with a life agreeable to the same; consider how studious ye ought to be in reading and learning the Scriptures, and in framing the manners both of yourselves, and of them that specially pertain unto you, according to the rule of the same Scriptures; and for this self-same cause, how ye ought to forsake and set aside (as much as you may) all worldly cares and studies.<br><br>
+
+We have good hope that you have well weighed and pondered these things with yourselves long before this time; and that you have clearly determined, by God's grace, to give yourselves wholly to this office, whereunto it hath pleased God to call you: so that, as much as lieth in you, you will apply yourselves wholly to this one thing, and draw all your cares and studies this way; and that you will continually pray to God the Father, by the mediation of our only Saviour Jesus Christ, for the heavenly assistance of the Holy Ghost; that, by daily reading and weighing of the Scriptures, ye may wax riper and stronger in your ministry; and that ye may so endeavour yourselves from time to time to sanctify the lives of you and yours, and to fashion them after the rule and doctrine of Christ, that ye may be wholesome and godly examples and patterns for the people to follow.<br><br>
+
+And now, that this present Congregation of Christ here assembled may also understand your minds and will in these things, and that this your promise may the more move you to do your duties, ye shall answer plainly to these things, which we, in the Name of God, and of his Church, shall demand of you touching the same.
+</blockquote>
+
+At this point, the bishop would ask a series of questions based on the charge given to the ordinands. There were two things I realised after reading this. The first was simply the weight of this charge&mdash;it almost left me trembling as I read it. The second was that it would be impossible to answer the questions that follow unless you had a deep conviction of the grace of God and of His call to serve his church, for in no way could you affirm the charge unless you were entirely reliant on God and the power of his Spirit. That kind of understanding is a good way to start your ministry.

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Willimon on the pastor's right of intrusion
+date: 2012-07-19 08:46
+tags:
+- ministry
+- church
+- family
+- faith
+- william-willimon
+- local-church
+---
+<p>A couple of years ago I posted about the idea of <a href="http://jakebelder.com/doing-ministry-in-the-living-room" target="_blank">doing ministry in the living room</a>, which looked at the practice of home visitation by pastors and other leaders in the church responsible for pastoral care. I think the practice is an important one, and one that should be carried out in a systematic way. <a href="http://en.wikipedia.org/wiki/William_Henry_Willimon" target="_blank">William Willimon</a>, in his book, <a href="http://www.amazon.co.uk/gp/product/0687045320/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=jakebeldercom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0687045320" target="_blank"><em>Pastor: The Theology and Practice of Ordained Ministry</em></a>, also notes the significance of this:</p>
+<blockquote>
+There is no substitute for the pastor who counsels to also be the one who visits, who knows parishioners in the actual setting of their lives. Thus <a href="http://en.wikipedia.org/wiki/Richard_Baxter" target="_blank">Richard Baxter</a> wrote, '...When a minister knows not his people...it must be a great hindrance to his doing any good among them. By means of [visiting them], we shall come to be better acquainted with <em>each person's spiritual state</em>, so the better know how to watch over them.' ...One great difference between a pastor and other givers of care in our society is that a pastor can take initiative and intrude into the troubled lives of his or her people. It is part of the pastor's role not simply to wait until hurting people reach out for help, but also to seek out and save the lost. Thus <a href="http://en.wikipedia.org/wiki/Jeremy_Taylor" target="_blank">Jeremy Taylor</a>, Anglican bishop of the seventeenth century, advises his pastors: 'A minister must not stay till he be sent for; but, of his own accord and care, go to them' (104-105).
+</blockquote>
+<div style="float: right; margin: 5px 1px 0px 20px; width: 425px; height: 300px;"><img src="https://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/Two-People-Walking.jpg" /></div>
+<p>Later in the chapter, Willimon writes that "Christianity tends to see most things that the world regards as private, as intensely public" (107). That is particularly true of faith. While our culture tries to relegate faith to a private matter that is of no concern to anyone else, the Bible is clear that because human beings are fundamentally religious, faith is central and very much public.</p>
+<p>Pastors, then, as leaders of the church, of the gathered believers, are responsible to nurture this faith and to equip every member to live all of their lives under the Lordship of Christ. That will involve an intimate relationship, one that goes beyond brief small talk over a cup of coffee after the church service on Sunday and involves a mutual sharing of lives at the deepest level. We should welcome the intrusion of a pastor or church leader who is deeply committed to our growth in faith because the Christian life was never designed to be a journey we take alone. God in his grace appoints leaders to shepherd his people and to walk side by side with us through this life. Willimon says, "Pastors are persons who...care for God's people by sharing not only the gospel, but our very lives with God's people" (109).</p>
+<p>The idea of sharing our lives brings to mind the fact that the church is a family. This is not just a metaphor, but a reality grounded in the work of God the Father through Jesus Christ to adopt us as his sons and daughters (<a href="http://www.biblegateway.com/passage/?search=romans%208:15-16&amp;version=NIV1984" target="_blank">Rom. 8:15-16</a>; <a href="http://www.biblegateway.com/passage/?search=eph%201:5&amp;version=NIV1984" target="_blank">Eph. 1:5</a>). And it is in the context of a family that our closest relationships are usually found. We share the good, the bad, the ugly, and commit ourselves to each other for the sake of each other's flourishing. This, after all, is love.</p>
+
+The life of the church cannot buy into modern cultural ideals of privacy and individualism. Instead, it is a thoroughly communal life. A willingness to open our lives to each other will enrich us, deepen our faith, and strengthen our witness to the world.

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Redemption's cosmic scope
+date: 06 March 2011 04:05
+tags:
+- jesus-christ
+- kingdom-of-god
+- redemption
+- michael-goheen
+- craig-bartholomew
+- salvation
+- scripture
+---
+<p>Although endnotes are a result of the Fall (footnotes are part of God's good, created order), some publishers continue to insist on using them. But the endnotes in <a href="http://twu.ca/academics/faculty/profiles/michael-goheen.html">Michael Goheen</a> and <a href="http://www.redeemer.ca/faculty/craig-bartholomew.aspx">Craig Bartholomew's</a> book, <strong><a href="http://www.wtsbooks.com/product-exec/product_id/3687/nm/Drama+of+Scripture%3A+Finding+Our+Place+in+the+Biblical+Story?utm_source=jbelder&amp;utm_medium=blogpartners"><em>The Drama of Scripture: Finding Our Place in the Biblical Story</em></a></strong>, are often too good to ignore. In their discussion of the final act of redemptive history, they write of the ongoing tendency in Western Christianity to ignore the cosmic aspect of redemption, a problem stemming from the influence of Enlightenment philosophy, and one that narrows the scope of the gospel. In the quote below, I have embedded the endnotes; the bold sentences are the text in the manuscript, while the normal font is the endnote.</p>
+<blockquote>
+<strong>Too often our view of the future has emphasized solely the salvation of the individual person apart from the full creational and relational context in which human beings live their lives.</strong> It has been rightly noted that this narrowing of salvation in the West is the result of the powerful force of the Enlightenment worldview. Under its onslaught the gospel narrowed its scope. 'The early Christian belief (i.e., biblical) that the Fall and Redemption pertained not just to man, but to the entire cosmos, a doctrine already fading after the Reformation, now [under the power of secularism has] disappeared altogether: the process, if it had any meaning at all, pertained soely to the personal relation between God and man' (Richard Tarnas, <a href="http://www.amazon.com/Passion-Western-Mind-Understanding-Shaped/dp/0345368096/ref=sr_1_1?ie=UTF8&amp;qid=1299369117&amp;sr=8-1"><em>The Passion of the Western Mind</em></a>, 306-7). A. Koeberle writes that 'this cosmic aspect of redemption was increasingly lost to Western Christendom since the Age of Enlightenment, and to this day we have been unable to restore it to its strength and clarity' (quoted in G.C. Berkhouwer, <a href="http://www.wtsbooks.com/product-exec/product_id/2609/nm/Return+of+Christ?utm_source=jbelder&amp;utm_medium=blogpartners"><em>The Return of Christ</em></a>, 211). <strong>Often the whole of the biblical story seems to revolve around 'me.'</strong>... Lesslie Newbigin is critical of those who privatize 'this mighty work of grace and talk as if the whole cosmic drama of salvation culminates in the words 'For me; for me' (<a href="http://www.wtsbooks.com/product-exec/product_id/1443/nm/Gospel+in+a+Pluralist+Society?utm_source=jbelder&amp;utm_medium=blogpartners"><em>The Gospel in a Pluralist Society</em></a>, 179). <strong>Yet the vision of Revelation, indeed, the whole story of the Bible, leads us to look forward in hope to a creation restored to wholeness. Every facet of it is to be brought back to what God has intended for it. And within that glorious fullness and perfect wholeness, there is a place for <em>us</em>. Redemption is cosmic in its scope.</strong>
+</blockquote>
+
+This has been <a href="http://jakebelder.com/tag/redemption">a theme I've addressed before</a>, and one I think that we still do not talk about enough. Our understanding of redemption has huge implications &ndash; for how we live in this world, for how we disciple other believers, and so on. Redemption extends as far as the curse of sin is found, and our witness to the gospel of Jesus Christ must reflect the holistic salvation he promises when he returns to consummate his Kingdom.

@@ -1,0 +1,31 @@
+---
+layout: post
+title: A three-part framework for looking at the world
+date: 14 June 2010 05:39
+tags:
+- creation
+- lordship
+- neocalvinism
+- redemption
+- sovereignty
+- theology
+- worldview
+---
+<p>The March edition of <a href="http://www.cardus.ca/comment/"><em>Comment</em></a> magazine&mdash;yes, I'm a little late in picking up on this&mdash;has three articles dealing with each aspect of the biblical story: <a href="http://www.cardus.ca/comment/article/2022/">creation</a>, <a href="http://www.cardus.ca/comment/article/2023/">fall</a>, and <a href="http://www.cardus.ca/comment/article/2024/">redemption</a>. Understanding the biblical narrative in this way is characteristic of the school of thought known as neocalvinism, which <em>Comment</em> roots itself in. All the pieces in this three-part series are excellent, and all worth your time (as is <em>Comment</em> as a whole&mdash;incidentally, <em>Comment</em> publishes five times more material online than in print if you wanted to read it on a regular basis). A taste of each piece follows.</p>
+<p>First, <a href="http://www.allofliferedeemed.co.uk/wolters.htm">Al Wolters</a> writes on a biblical view of <a href="http://www.cardus.ca/comment/article/2022/">creation</a>:</p>
+<blockquote>
+The first thing most people think of in connection with creation is the  so-called 'natural world'&mdash;that is, the physical and biological world. We  think of stars and galaxies as well as molecules and atoms, of trees  and flowers as well as birds and beasts. But that is a very limited view  of creation. In the biblical view, creation is everything which God has  ordained to exist, what he has put in place as part of his creative  workmanship. To be sure, this includes the great variety of physical  entities and processes, and the enormous diversity of flora and fauna  that God has created 'according to their kind,' but it also encompasses  much more. Creation includes such human realities as families and other  social institutions, the presence of beauty in the world, the ability to  appreciate that beauty, the phenomena of tenderness and laughter, the  capacity to conceptualize and reason, the experience of joy and the  sense of justice. An almost unimaginable variety of objects,  institutions, relationships and phenomena are part of the rich texture  of God's creation.
+</blockquote>
+<p>Then <a href="http://www3.dbu.edu/naugle/index.asp">David Naugle</a> addresses the consequences of the<a href="http://www.cardus.ca/comment/article/2023/"> fall</a>:</p>
+<blockquote>
+[The fall] is the second 'act' in the overall narrative of the Scriptures, the next  major theme in a biblical view of life and the world. First, there is  the good news of creation, but now we have the bad news of the fall. It  introduces fundamental conflict into the biblical drama, which must be  resolved before God's story ends. It shows, contrary to other  worldviews, that evil is not rooted in creation itself, but in the moral  rebellion of the human race against the divine authority of the holy  God. I sometimes call this episode the 'uncreation' because of the  damage it did to God's very good world: how it twisted his intentions  for humanity, for our knowing and loving and culture-making,  and for  all the earth.
+</blockquote>
+<p>And finally <a href="http://www.jameskasmith.com">Jamie Smith</a> paints a wonderful portrait of God's all-encompassing <a href="http://www.cardus.ca/comment/article/2024/">redemption</a>:</p>
+<blockquote>
+<p><span style="color: #5d5d5d;">Our good Creator has not left us to our own devices. While we  ruptured the plenitude of creative love, our condescending God has also  ruptured our brass heaven, along with our desire to enclose ourselves in  immanence, appearing in the flesh&mdash;<em>our</em> flesh&mdash;as the image of the  invisible God. Jesus of Nazareth appears as the second Adam who models  for us what it looks like to carry out that original mission of  image-bearing and cultivation. The Word became flesh, not to save our  souls from this fallen world, but in order to restore us as lovers <em>of</em> this world&mdash;to (re)enable us to carry out that creative commission.  Indeed, God saves us so that&mdash;once again, in a kind of divine madness&mdash;we  can save the world, can (re)make the world aright. And God's redemptive  love spills over in its cosmic effects, giving hope to this groaning  creation.<br><br>
+
+So our redemption is not some supplement to being human; it's what  makes it possible to be <em>really</em> human, to take up the mission that  marks us as God's image bearers. Saint Irenaeus captures this  succinctly: 'The glory of God is a human being fully alive.' Redemption  doesn't tack on some spiritual appendage, nor does it liberate us from  being human in order to achieve some sort of angelhood. Rather,  redemption is the restoration of our humanity, and our humanity is bound  up with our mission of being God's co-creative culture-makers.
+</blockquote>
+<p>Be sure to read all of the articles in their entirety. It is this three-part framework (alternatively construed as wonder, heartbreak, and hope) that forms the <a href="http://www.cardus.ca/comment/article/1573/">point of view from which <em>Comment</em> looks at the world</a>, a point of view which, my friend and the magazine's editor Gideon Strauss writes, manifestly reveals the love of the triune God. This love "evokes&mdash;from our whole person and in unity with the whole  people of God&mdash;a life of worship, a love of our neighbours, and a  respectful caring and disclosure of all of creation. Lives ordered by  the love of God are ordered well, and can be lived well."</p>
+
+<a href="http://en.wikipedia.org/wiki/Abraham_Kuyper">Abraham Kuyper</a>, in that oft-quoted <a href="http://en.wikipedia.org/wiki/Abraham_Kuyper#Theological_views">dictum</a>, rightly declares that all of life is to be lived under the Lordship of Jesus Christ. Our worldview needs this truth as its foundation. We do not begin to live our lives well, to borrow Gideon's words, unless we begin with the recognition of His total claim over all of creation and His holistic work of redemption. Indeed, as <a href="http://en.wikipedia.org/wiki/Cornelius_Van_Til">Cornelius Van Til</a> once said, "Man cannot be man unless God is God."

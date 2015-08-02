@@ -1,0 +1,17 @@
+---
+layout: post
+title: Entering into the brokenness of history
+date: 26 March 2010 09:15
+tags:
+- europe
+- history
+- sin
+---
+<div style="float: right; margin: 5px 1px 0px 20px; width: 400px; height: 300px;"><img src="https://dl.dropboxusercontent.com/u/3897986/Jake%20Blog%20Images/pripyat.jpg" /></div>
+<p>I first heard about <a href="http://en.wikipedia.org/wiki/Pripyat,_Ukraine">Pripyat</a> a couple of years ago. Pripyat is an abandoned city built in the 1970s primarily to house those who worked at the Chernobyl Nuclear Power Plant, located in the north of the Ukraine close to the border of Belarus. It was abandoned in 1986 following the disaster at the plant. The ferris wheel you see in the photo to the left has become somewhat iconic&mdash;an amusement park had been built there just prior to its evacuation. It was never officially opened.</p>
+<p>The nearly 50,000 residents of Pripyat were evacuated in short order. They were not allowed to take any of their belongings with them, save the clothes on their backs. In the years following the disaster, as radioactive levels in the region began to drop, looters ran rampant through the city, taking every valuable thing in sight. Though the city still stands today, it is decaying; not only have the looters done a great deal of damage to the existing structures, but the natural environement and time have taken their toll as well.</p>
+<p>It is easy for us, I think, to look at disaster like Chernobyl as just an abstract even in history. We are far removed from it, not so much by time, but by the vast expanse that separated the worlds of the Soviet Union and the rest of the Western world.</p>
+<p>Earlier today I was looking at photos of the abandoned city, and on the website where I had found them, a number of people had commmented that the images were "hauntingly beautiful." To be honest, I was quite disturbed by the comments. There is nothing "beautiful" about Pripyat. To begin with, its construction was typical of the Soviet era&mdash;long rows of uniform apartment blocks entirely lacking in character and aesthetic sensibility, built to house the faceless masses that would keep the communist machine running. And then an explosion, following which 50,000 people are forced to leave their whole life behind, carrying with them only their memories, whatever they could fit in their pockets, and for many, radioactive isotopes in quantities that would later claim their lives or the lives of their loved ones.</p>
+<p>Perhaps the decaying, empty city is appropriate, reflective of the incredible brokenness of the lives of its residents, almost irreparable. It hardly needs to be said that here we see the effects of sin in an especially poignant way.</p>
+<p>It is hard for us to enter into that brokenness, to understand what they went through. There was a short film shot partly on location in Pripyat in 2008, called <a href="http://www.thedoorshortfilm.com"><em>The Door</em></a> (it was nominated for an Academy Award) Only fifteen minutes long, the film conveys in a powerful way that brokenness, and the horror the residents of Pripyat lived through that fateful year. If you watch this film, I am certain that you will never again be able to think of the disaster at Chernobyl as an abstract historical event. I've embedded it below.</p>
+<iframe src="http://player.vimeo.com/video/9758104?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

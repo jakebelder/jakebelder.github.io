@@ -1,0 +1,20 @@
+---
+layout: post
+title: Miscellanées (Week 11, 2013)
+date: 2013-03-16 15:43
+tags:
+- miscellanées
+---
+<p>Every week I use <a href="http://twitter.com/jakebelder">Twitter</a> to                      share a variety of articles and posts and other            interesting         things  I     have seen and read across  the  web.   For        those who   don't   use      Twitter  but    are   interested   in      reading  or  perusing   the   links,   they    are    collected    here        and posted  at the  end  of  the   week.</p>
+<div style="float: right; margin: 5px 1px 0px 15px; width: 300px; height: 399px;"><img src="https://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/don%20draper%202.jpg" /></div>
+<p>Here are the links from <strong>10-16 March 2013</strong>.</p>
+<ol>
+<li><a href="http://www.telegraph.co.uk/news/religion/9915466/Archbishop-of-Canterbury-opposed-gay-sex-and-adoption.html" target="_blank"><strong>Archbishop of Canterbury opposed gay sex and adoption</strong></a> - As you would expect from the mainstream media, this piece carries a bit of a sensationalistic headline, but the article actually has some interesting insight into <a href="http://twitter.com/ABCJustin" target="_blank">Justin Welby's</a> thought, past and present.</li>
+<li><a href="http://alastairadversaria.wordpress.com/2013/03/11/rob-bell-and-don-draper-the-ad-mans-gospel/" target="_blank"><strong>Rob Bell and Don Draper&ndash; The Ad Man&rsquo;s Gospel</strong></a> - Some of you will know that there is a new book out by Rob Bell, and here <a href="http://twitter.com/zugzwanged" target="_blank">Alastair Roberts</a> looks at a few of the promotional videos for the book and makes some very interesting observations about Bell's style of communication. </li>
+<li><a href="http://www.qideas.org/video/preserving-our-hearts.aspx" target="_blank"><strong>Can You Lead Without Losing Yourself?</strong></a> - This 11-minute video by <a href="http://twitter.com/Tommyhinson" target="_blank">Tommy Hinson</a> is worth watching repeatedly if you're a Christian leader. When you're in leadership, there's nothing more important than preserving your heart.</li>
+<li><a href="http://alastairadversaria.wordpress.com/2013/03/14/a-lament-for-google-reader/" target="_blank"><strong>A Lament for Google Reader</strong></a> - An announcement was made this week that Google Reader will be shutting down in July, and here is another great post from Alastair Roberts on why this matters. It's not just about losing a helpful online tool.</li>
+<li><a href="http://blog.bakeracademic.com/video-james-k-a-smith-on-imagining-the-kingdom/" target="_blank"><strong>James K.A. Smith on <em>Imagining the Kingdom</em></strong></a> - If you've read <a href="http://twitter.com/james_ka_smith" target="_blank">James K.A. Smith's</a> excellent book, <a href="http://www.amazon.co.uk/gp/product/0801035775/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0801035775&amp;linkCode=as2&amp;tag=jakebeldercom-21" target="_blank"><em>Desiring the Kingdom</em></a>, then you no doubt have been anticipating the follow-up volume, <a href="http://www.amazon.co.uk/gp/product/0801035783/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0801035783&amp;linkCode=as2&amp;tag=jakebeldercom-21" target="_blank"><em>Imagining the Kingdom</em></a>. It's available now, and here are a few short video clips of Smith discussing the latest book.</li>
+<li><a href="http://www.evangelicals.org/news.asp?id=1592&amp;buffer_share=8b620&amp;utm_source=buffer" target="_blank"><strong>Archbishop Welby and the E-Word</strong></a> - Another interesting article about Justin Welby appeared this week, this time on Welby's use of the term 'evangelical' and his association with evangelicalism. Particularly encouraging in this article is to hear of Welby's commitment to evangelism.</li>
+</ol>
+
+Feel free to comment on any of these items or recommend further                    articles     or posts related to the content above using  the      space              below.

@@ -1,0 +1,30 @@
+---
+layout: post
+title: Changing how I blog
+date: 23 March 2011 02:45
+tags:
+- personal
+- blog
+---
+<div style="float: right; margin: 5px 1px 0px 20px; width: 370px; height: 303px;"><img src="http://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/pen-paper6.jpg" /></div>
+<p>Last November, I took a month-long hiatus from blogging in order to give more time to other things I felt more important. Since I have been back, I confess that I have not enjoyed blogging as much. Part of the reason for this is because I feel a sense of pressure to maintain some degree of regularity in posting. In and of itself, this is not really a problem; I always have something on my mind I could blog about. The problem is that I am something of a perfectionist when I write, and I'm not satisfied until I have said everything I want to say in just the right way. And so I can have a blog post I started on Monday that is not ready to be published until Saturday because I constantly read over it, rework it, and polish it until it is right. When I'm already working fifty hours a week and have all kinds of other things going on during the week, that is additional stress that is entirely unnecessary.</p>
+<p>I have been thinking about changing how I blog. The time factor is one of the reasons. But there is another, more significant, reason for my decision to make this change. In <a href="http://www.christianitytoday.com/ct/2011/marchweb-only/bloggers.html?start=1">an opinion piece in the March web edition of <em>Christianity Today</em></a>, <a href="http://donteatthefruit.com/">John Dyer</a>, the web development director at Dallas Theological Seminary, observed that with the advent of blogs and social media, anyone can publish anything with the click of a button. He noted,</p>
+<blockquote>
+What few of us realize is that when we press those 'Publish,' 'Post,' 'Comment,' and 'Send' buttons, we are making the shift away from merely 'believing' truth and stepping into the arena of publishing that belief. In doing so we are effectively assuming a position of leadership and teaching.
+</blockquote>
+<p><a href="http://www.jameskasmith.com">Jamie Smith</a>, professor of philosophy at Calvin College, recently articulated the idea that <a href="http://forsclavigera.blogspot.com/2011/03/unsolicited-advice-for-young.html">just because you <em>can</em> publish something, doesn't mean you should</a>. There used to be a difficult process you had to go through in order to get published, requiring one to submit manuscripts, get the approval of an editor and a big-name publisher. Smith argues that there is wisdom in that process:</p>
+<blockquote>
+I just wonder if there might be a few young theologians out there who are willing to at least pause and consider the possibility that there remains some wisdom in the establishment--and so might, for the sake of their work, submit to the disciplines of the process, even find the gifts hidden in rejections, rather than scurrying to find what upstart press will get their book into print. They might be grateful later, and theology might be better for it.
+</blockquote>
+<p>The point, I think, is that few of us are learners. We either don't want to be, or we just don't know how to be. Lately, I have become increasingly aware that I need to be a learner again. Human nature inclines many of us to want to be teachers, or to be complacent with the knowledge and wisdom we have already acquired. Being a learner, however, requires deliberate effort. It requires being willing to listen, think, read, contemplate, and digest. A few weeks ago, I was talking about <a href="http://jakebelder.com/i-need-to-read-more-again">how little I have been reading lately</a>, and I noticed that even as I said that, I have an ongoing impulse to spit out thoughts whenever they come to me (using the outlet that is this blog).</p>
+<p>It seems to me that there is an unhealthy disconnect there. As I move closer to taking up a role that puts me in the position of a teacher, I am growing more conscious of the need to assume the posture of a learner. I need to be much more intentional about taking in the knowledge and wisdom of others who are far more learned than I am. There are any number of ways to do this – reading books, listening to lectures, having face to face conversations with others.</p>
+
+So, for now, this means I will be putting down my own pen in order to learn and grow from what has flowed from the pens of others. I have a few ideas for how the format of this blog might change in light of this:
+
+>* I have a pattern already of quoting portions of books I am reading that offer something interesting and insightful. But up to now, I have usually framed the post with my own commentary on the quote. With the new format, I will offer a lot less commentary and let the quote speak for itself.
+
+>* In the same vein, I will post links to articles around the web that I find interesting and worth reading and thinking about. I already do this regularly on Facebook, but will probably do it less there and more here since I have a bit more space to make notes on it (Facebook limits you to something like 450 characters).
+
+>* There will be very few posts that contain content I have written entirely by myself. These are the types of posts that usually take me the longest and cause me the most stress. This is not to say there will not be any of these, but they will be very infrequent.
+
+Instead of this being a place where I just air out my own thoughts, I want it to be a space that facilitates learning by pointing to the wisdom and thought of others and gives us a forum to interact and converse about all kinds of different topics and ideas. In addition, this may provide us with more opportunities for conversations. One of the goals I have had with this blog is to post about three times a  week. This has been a big challenge up to now, but I suspect that with this change that goal will be much more within reach. As always, thanks for visiting, and I hope you enjoy the new format.

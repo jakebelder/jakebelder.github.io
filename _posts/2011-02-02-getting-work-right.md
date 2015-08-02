@@ -1,0 +1,22 @@
+---
+layout: post
+title: Getting work right
+date: 02 February 2011 06:22
+tags:
+- theology
+- faith
+- culture
+- eugene-peterson
+- vocation
+- worldview
+---
+<div style="float: right; margin: 5px 1px 0px 20px; width: 400px; height: 276px;"><img src="https://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/Horses_mid.jpg" /></div>
+<p>Work is something that very few people get right, <a href="http://en.wikipedia.org/wiki/Eugene_Peterson">Eugene Peterson</a> observes in his book, <em><a href="http://www.wtsbooks.com/product-exec/product_id/6787/nm/Practice+Resurrection%3A+A+Conversation+on+Growing+Up+in+Christ+%28Hardcover%29?utm_source=jbelder&amp;utm_medium=blogpartners">Practice Resurrection</a></em>. Broader culture, on the whole, tends to romanticize work. Our work is where we find our significance. It becomes the defining part of who we are. It "becomes a way to extend our influence or importance... Work becomes a way to become godlike without ever dealing with God" (104).</p>
+<p>Conversely, Christians tend to spiritualize work. This does not mean they are free of the same pitfalls as those who romanticize work &ndash; they too will work too much and find their self-worth in their work &ndash; but their conception of the significance and meaning of their work is much different.</p>
+<blockquote>
+The pietist 'spiritualizes' work. Work is desecularized into religious acts: prayer, worship, witness. Or it is professionalized into occupations of pastor, preacher, missionary, evangelist. This spiritualization of work de-spiritualizes most of the world of work...the daily work of what is often dismissively referred to as 'women's work' &ndash; laundry, meal preparation, child-rearing, typing, and carpooling. It also, across the board, removes unskilled work from the Christian workweek: work for hire, assembly-line work, grunt work. The only work left for honoring and practicing 'good works' is church work, often identified as 'the Lord's work' or 'Christian work' (105).
+</blockquote>
+<p>One of the reasons so many Christians fall into this trap is because they don't understand two things. First, they forget that work is something God gave mankind to do before the Fall. We don't work because of the Fall. The Fall has made work difficult, to be sure, but God designed us to work from the very beginning. Second, and related, is the unbiblical notion that ultimately the things we do on this earth do not matter because in the end it will all pass away. <a href="http://www.hudson.org/learn/index.cfm?fuseaction=staff_bio&amp;eid=MarsPaul">Paul Marshall</a> has noted in his excellent book, <em><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0849990408/theclaremontinst">Heaven is Not My Home</a></em>, that Christians are apathetic and passive about so many aspects of our earthly life (like our work) because <a href="http://jakebelder.com/heaven-is-not-my-home">we don't take God's world seriously</a>. We separate the things of earth from the things of heaven such that vocations like accountant, construction worker, and engineer are just "jobs," while pastor and seminary professor are "callings."</p>
+<p>In his 1981 encyclical, <em><a href="http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens_en.html">Laborem Exercens</a></em>, the late&nbsp;<a href="http://en.wikipedia.org/wiki/Pope_John_Paul_II">Pope John Paul II</a> wrote, "Through work, men and women participate in the very action of the Creator in the universe." Our work has far greater significance and worth than we often attribute to it. In a culture that operates with a distorted view of work, the church has an opportunity to begin to develop a theology of work or a theology of vocation where, in the process of discipleship, believers can start to understand that their work in the world has significance and purpose beyond being a forum where they interact with non-Christians or a place where they make money so they can give to the church.</p>
+
+The nature of work, the relationship of faith and work, our work and the Kingdom of God &ndash; all these are pressing questions for believers who seek to be faithful in acknowledging Christ's Lordship over all of life. Given that many believers spend the vast majority of their week engaged in their work, it is of prime importance that the church help them begin to answer these questions.

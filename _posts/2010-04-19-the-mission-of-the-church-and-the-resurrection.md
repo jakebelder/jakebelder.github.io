@@ -1,0 +1,26 @@
+---
+layout: post
+title: The mission of the church and the resurrection
+date: 19 April 2010 08:51
+tags:
+- church
+- ecclesiology
+- jesus-christ
+- missiology
+- gary-badcock
+---
+<div style="float: right; margin: 5px 1px 0px 20px; width: 300px; height: 400px;"><img src="https://dl.dropboxusercontent.com/u/3897986/Jake%20Blog%20Images/Stockholm-street.jpg" /></div>
+<p>A short time ago, I <a href="http://jakebelder.com/modernity-and-the-life-of-the-church">mentioned</a> and quoted from Gary Badcock's book on ecclesiology, <a href="http://www.amazon.com/House-Where-God-Lives-Doctrine/dp/0802845827/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1270499593&amp;sr=8-1"><em>The House Where God Lives</em></a>, and as I read through his discussion of the mission of the church the other day, I found myself increasingly tempted to purchase the book, even with its $27 pricetag.</p>
+<p>There is much worth thinking about in this section, a lot of it echoing the insights of missiologists such as David Bosch and Lesslie Newbigin. I found the following, in which Badcock links the mission of the church with the resurrection, to be very significant:</p>
+<blockquote>
+In the New Testament, indeed, the mission of the church is closely connected with the pivotal event of the resurrection of Jesus. It is in the Gospel of John that the link between the resurrection and the mission is clearest, for that is where Jesus' central appearance to his disciples, following his rising from the dead, brings both the bestowal of the Spirit and the ultimate commissioning for the missionary expansion that followed: 'As the Father has sent me, so I send you' (John 20:21). This statement picks up on themes scattered elsewhere in John's Gospel (e.g., John 17:1-3, 18, 23); and particularly when it is coupled with the teaching of Paul, it helps us understand what the character of the resurrection appearances might have been. The emphasis falls less on epiphany than on commissioning, or, to put the real point more precisely, it falls on <em>sharing Christ's mission</em>. The implication of all of this would be that where there is little appreciation of the importance of the Christian mission, there is a limited grasp of the resurrection faith. Therefore, whatever the cultural difficulties implicit in embracing mission as central to the doctrine of the church, the theological theme can scarcely be avoided.
+</blockquote>
+<p>There is a lot packed into this paragraph worth thinking about, not least of which is how our view of the mission of the church is linked to our understanding (or lack thereof) of the resurrection.</p>
+<p>Another recently published book on ecclesiology, coming from the standpoint of biblical theology, is written by Graham Twelftree, entitled, <a href="http://www.amazon.com/People-Spirit-Exploring-Lukes-Church/dp/0801038804/ref=sr_1_1?/span></p>ie=UTF8&amp;s=books&amp;qid=1271553542&amp;sr=8-1"><em>People of the Spirit: Exploring Luke's View of the Church</em></a>. Using insights from the books of Luke and Acts, he draws out the implications of the church's mission being centered on the living Christ, and in doing so, reflects and expands on what Badcock is saying. Consider this:</p>
+<blockquote>
+Perhaps, above all else, Luke would say that the Church is the present and ongoing embodiment of Jesus and his mission. It is not that the Church is simply Christ-like or is to mirror and maintain the ministry of Jesus through emulating his activities and message. Rather, through receiving the empowerment and direction of the Spirit, the Church embodies and expresses that same powerful presence of God apparent in Jesus and his ministry...Not only does the life of the Church begin in Jesus' ministry, but also the life of Jesus continues in the ministry of the Church...<br><br>
+
+[Luke's] positive conclusion that the Church is fundamentally Christo-centric also stands as a critique of some contemporary understandings of the Church. For example, the Church is sometimes seen as essentially a community. But, for Luke, the Church is not fundamentally a community, though it is, in part, communal. In that Jesus is said to appoint a group (note Acts 1:21), Luke signals that he understood the Church was not a collection of individuals related to him but a community of his followers. Yet, for its identity, the Church depended on the call of Jesus not its collecting or being together. Also, the Church is sometimes seen as those gathered around the cross. However, for Luke, the community of the Church is not determined by gathering around or under the cross, it is gathered around the living Jesus...the Church is called into existence by Jesus and has its <em>raison d'&ecirc;tre</em> in its ongoing embodiment of his life and mission.
+</blockquote>
+
+That the church is gathered around the living Jesus is a significant point; in the book of Acts, for example, most the recorded sermons are centered on proclaiming that Jesus had risen from the dead and continues to live. It is this living Christ who gave the apostles the commission to go to all the nations and preach the good news. And it is this same living and resurrected Jesus who needs to continue to be the focal point of the church's mission today.

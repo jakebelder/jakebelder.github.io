@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Newbigin: The urgent task of the church'
+date: 23 July 2008 08:10
+tags:
+- lesslie-newbigin
+- church
+- community
+- ecclesiology
+- missiology
+---
+<p><a href="http://en.wikipedia.org/wiki/Lesslie_Newbigin">J.E. Lesslie Newbigin</a>, one of the most prominent figures in the field of missiology, has argued that there are many reasons for the doctrine of the church to occupy a central place in our thinking. Among these reasons is this:</p>
+
+<blockquote>
+One phase of the breakdown [of Christendom] has been the dissolution of ties which bound men and women to the natural communities of family, village, or working group, to which they had belonged. I do not need to labor this point, which is the constant refrain of the social diagnostician. Western European civilization has witnessed a sort of atomizing process, in which the individual is more and more set free from his natural setting in family and neighborhood, and becomes a sort of replaceable unit in the social machine. His nearest neighbors may not even know his name. He is free to move from place to place, from job to job, from acquaintance to acquanitance, and--if he has attained a high degree of emancipation--from wife to wife. He is in every context a more and more anonymous and replaceable part, the perfect incarnation of the rationalist conception of man. Wherever western civilization has spread in the past one hundred years it has carried this atomizing process with it...myriads of human beings, loosened from their old ties in village or tribe or caste, like grains of sand fretted by water from an ancient block of sandstone, are churned in the whirlpool of the city--anonymous, identical, replaceable units.<br /><br />
+
+In such a situation it is natural that men should long for some sort of real community, for men cannot be human without it. It is especially natural that Christians should reach out after that part of Christian doctrine which speaks of the true, God-given community, the Church of Jesus Christ. We have witnessed the appalling results of trying to go back to some sort of primitive collectivity based on the total control of the individual, down to the depths of his spirit, by an all-powerful group. Yet we know that we cannot condemn this solution to the problem of man's loneliness if we have no other to offer. It is natural that men should ask with a greater eagerness than ever before such questions as these: 'Is there in truth a family of God on earth to which I can belong, a place where all men can truly be at home? If so, where is it to be found, what are its marks, and how is it related to, and distinguished from, the known communities of family, nation, culture? What are its boundaries, its structure, its terms of membership? And how comes it that those who claim to be the spokesmen of that one holy fellowship are themselves at war with one another as to the fundamentals of its nature, and unable to agree to live together in unity and concord?' The breakdown of Christendom has forced such questions as these to the front. I think there is no more urgent theological task than to try to give them plain and credible answers.
+</blockquote>
+
+<p>If you do not know anything of Newbigin, you will probably be surprised to discover that those words were spoken in 1952. That is one of the reasons he remains so prominent in the study of missiology. His insights are deep and profound, and as I think will come to be seen in the future, timeless. I first came into contact with Newbigin in college under the instruction of <a href="http://www.biblicaltheology.ca/blueauthors.htm#mg">Michael Goheen</a>, whose <a href="http://igitur-archive.library.uu.nl/dissertations/1947080/full.pdf">doctoral thesis</a> was on the subject of Newbigin's missionary ecclesiology.</p>
+<p>Engaging in that study subsequently had a profound effect on <span style="font-style: italic;">my </span>ecclesiology. Newbigin, even in this short passage touches on some of the most essential things the Church must be--communal in its nature (the Church, after all, being a body and not a building), and rooted firmly in Jesus Christ, its source and life. The tendency of the Church in our time (and its members) is to seek the service and satisfaction of individual needs and wants. Just as this is ultimately destructive for society and culture, so it is for the Church.</p>
+
+The Church is not a means to an end, but instead, it is to be the incarnation of Christ, the enduring presence of the Kingdom of God on earth. As the Father has sent Jesus, so he sends us. Let us take up our calling with faithfulness.

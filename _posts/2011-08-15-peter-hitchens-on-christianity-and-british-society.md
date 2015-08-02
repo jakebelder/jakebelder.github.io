@@ -1,0 +1,29 @@
+---
+layout: post
+title: Peter Hitchens on Christianity and British society
+date: 15 August 2011 06:29
+tags:
+- atheism
+- christianity
+- culture
+- united-kingdom
+- faith
+- peter-hitchens
+- sociology
+---
+<p style="text-align: left;">Last year, in preparation for our move to England, I read <a href="http://en.wikipedia.org/wiki/Peter_Hitchens">Peter Hitchens&rsquo;</a> excellent book, <em><a href="http://amzn.to/rdLcU1">The Rage Against God: Why Faith is the Foundation of Civilisation</a></em>, which had been lent to me by an English friend. I simply devoured the book. Hitchens&rsquo; writing was very engaging, and his perception of British society&rsquo;s move away from its Christian foundation to almost embracing radical atheism was intriguing.</p>
+<p>With the rioting in a few of the major English cities in the past week, I&rsquo;ve been thinking about the book again and some of Hitchens&rsquo; conclusions. British Prime Minister, <a href="http://en.wikipedia.org/wiki/David_Cameron">David Cameron</a>, attributed the rioting and criminal behaviour of those involved <a href="http://www.bbc.co.uk/news/uk-politics-14524834">to a decay of the moral foundation of Britain</a>&nbsp;in a speech this morning.&nbsp;He is in large part correct, of course, but what he did not address is the moral decay at all levels of British society, including those in positions of power. Hitchens notes,</p>
+<blockquote>
+The British establishment has ceased to be Christian and has inherited a society with Christian forms and traditions. It does not know what to do with them or how to replace them. Into this confusion and emptiness the new militant secularists now seek to bring an aggressive atheism (123).
+</blockquote>
+<p>That &lsquo;aggressive atheism&rsquo; takes on all different kinds of forms at different levels of society, but it was perhaps nowhere more visible than in the flames and destruction caused by those who believe they are accountable to no one, free from any externally-imposed moral standard, a generation raised in the shadows of a society vigorously championing their right to entitlement and autonomy.</p>
+<p>While Hitchens&rsquo; book needs to be read in its entirety to get the full breadth of his argument (and it is a book you really should read), this extended quotation is helpful in light of these recent events:</p>
+<blockquote>
+Christianity is without doubt difficult and taxing, and all of us fail to emulate the perfection of Christ himself. But we are far better for trying than for not trying, and we know that there is forgiveness available for honest failure. My brother&rsquo;s [the outspoken atheist, <a href="http://en.wikipedia.org/wiki/Christopher_hitchens">Christopher Hitchens</a>] suggestion that we are urged to be superhuman &lsquo;on pain of death and torture&rsquo; reveals a misunderstanding both of the nature of the commandments and the extent of forgiveness. There is also some excuse-making involved. The difficult is being described as superhuman. Yes, there is fear in the Christian constitution, as there must be in any system of law and justice. I should be dismayed if deliberate, unrepentant wickedness did not lead to retribution of some kind. But there is far more love offered for those who honestly attempt to follow the law, and unbounded forgiveness for all who seek it &ndash; even those who have most vigorously defamed the faith and then embrace it just before the darkness falls. And that is why, while it is perfectly possible for convinced atheists to do absolutely good deeds at great cost to themselves &ndash; not least because God so very much wishes them to &ndash; it is rather more likely that believing Christians will do such things. And when it comes to the millions of small and tedious good deeds that are needed for a society to function with charity, honesty, and kindness, a shortage of believing Christians will lead to that society&rsquo;s decay.<br><br>
+
+We can live at a low level of cooperation by mutual consideration. But as soon as we move beyond subsistence and the smallest units, problems arise that cannot be resolved by mutual decency. Some people grow richer, some are stronger, some acquire weapons. Power comes into being at a very early stage in human society. So do greed, competition for scarce resources, and wars with other groups. Mutual benefit ceases to offer any kind of guide to behaviour. Who is to say, in a city ruled by a single powerful and ruthless family from an impregnable fortress, that the strongest man is not always right?
+</blockquote>
+<p>Just to be clear, I am not proposing that all&nbsp;of a society&rsquo;s problems would easily be solved if there were more Christians around or by imposing Christian morality through legislation, or that a society should adopt the Christian faith for merely pragmatic reasons. It is much more complex than that. Indeed, history has proved that 'Christian' societies can be terribly oppressive. At the same time, owing to common grace, there have been societies where Christianity has had no significant presence, yet there have been relative degrees of peace and goodness.</p>
+<p>That being said, the only foundation that will provide a society with leaders who are servants, citizens who are wholly devoted to the common good, and a rule of law that upholds true freedom, justice, and peace &ndash; in short, one which will ensure the flourishing of all its members &ndash; is one based on and submissive to the sovereign rule of Jesus Christ. As politically incorrect as it is to say something like this in our day, the events of late require such candor and honesty.&nbsp;Cameron himself recognises the need to be open about society's ills, and is right to confront something like this so frankly.</p>
+
+The one thing he needs to understand, though, is that politicians cannot fix what is fundamentally <a href="http://jakebelder.com/64586518">a spiritual problem</a>.

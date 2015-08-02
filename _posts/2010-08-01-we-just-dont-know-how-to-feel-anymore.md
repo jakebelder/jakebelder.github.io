@@ -1,0 +1,28 @@
+---
+layout: post
+title: We just don't know how to feel anymore
+date: 01 August 2010 05:21
+tags:
+- church
+- culture
+- music
+- worship
+- theology
+---
+<p>Worship is not something I frequently address on this blog, but I do think about it a lot, especially since I am involved in the worship at my local church by playing the piano nearly every Sunday. Doing so has given me occasion to think a great deal more about worship and brought me to a much greater awareness of what is happening when we worship (or at least what should happen).</p>
+<div style="float: right; margin: 5px 1px 0px 20px; width: 400px; height: 267px;"><img src="https://dl.dropbox.com/u/3897986/Jake%20Blog%20Images/worshipband.jpg" /></div>
+<p>Helpful in this regard has been the <a href="http://www.calvin.edu/worship/">Calvin Institute of Christian Worship</a>. They do a lot of great stuff up there in Grand Rapids, Michigan &ndash; according to their mission statement, they exist 'to promote the scholarly study of the theology, history, and practice of Christian worship and the renewal of worship in worshiping communities,' and their website contains a lot of helpful resources for that purpose.</p>
+<p>One of the ways they help is by publishing books. The other day I came across a book belonging to their <a href="http://www.eerdmans.com/shop/product.asp?p_key=9780802832191#series">Liturgical Studies Series</a> called <em><a href="http://www.calvin.edu/worship/pub/new_song_old_world.php">A New Song for an Old World: Musical Thought in the Early Church</a></em>, a study of the perspectives on worship music in the New Testament and in the thought of the early Church Fathers, written by Calvin R. Stapert. While I was intrigued by the whole book, something especially caught my eye in the epilogue regarding the mood and feeling of our worship.</p>
+<p>Contemporary worship music, exemplified by the music coming from (but certainly not limited to) the likes of <a href="http://en.wikipedia.org/wiki/Chris_Tomlin">Chris Tomlin</a> or <a href="http://en.wikipedia.org/wiki/Hillsong_Music">Hillsong</a>, does upbeat music, energetic music, and sometimes more contemplative music. But Stapert observes that there is one element that is almost entirely absent from this contemporary music:</p>
+<blockquote>
+Few will quarrel with the idea that the song of the church should be joyful. Indeed, that idea may be too readily and superficially embraced. Our problem is that the darker countermelody ('ashes and tears') is so severly muted, even silenced, that the joy expressed is empty and trivial &ndash; merely 'upbeat' without being truly joyful. Too many Christians wish to have Christmas without Advent, Easter without Lent, trumpets without tears and ashes, a crown without a cross. Too many are eager to give an affirmative answer to George Herbert's question:<br><br>
+
+<p style="padding-left: 50px;">Shall I then sing, skipping thy doleful story,<br />
+And side with thy triumphal glory?</p>
+</blockquote>
+<p>In the past year I have become much more aware of what Stapert is talking about here. For instance, I noticed at the end of last year that when the Advent season came around, we sang almost no Advent hymns. For some reason, you just don't find Advent hymns in the repertoire of contemporary worship. They dive right into Christmas. It just felt wrong to be singing Christmas hymns already four weeks before Christmas day. Where is the sense of longing, of anticipation? We sang '<a href="http://www.opc.org/hymn.html?hymn_num=147">O Come, O Come Emmanuel</a>' a few times, but we don't know how to resonate with the desperate longing the lyrics of that song convey when in the next song we're sing, '<a href="http://www.opc.org/hymn.html?hymn_num=168">Glory to the newborn King</a>.' Our culture of instant gratification has worked it's way into contemporary worship's seasonal music &ndash; we want Jesus <em>now</em>.</p>
+<p>But it's not just longing, or the 'ashes and tears' that Stapert speaks of, that no longer have a place in our worship. A couple of years ago I had a professor ask if we had ever heard a song based on <a href="http://bible.logos.com/passage/NIV/Ps%2044#q=psalm%2044/0&amp;ref=Ps%2044%2Chi%3DPs%2044&amp;ver=NIV">Psalm 44</a> or a sermon preached on the passage. Nobody had. It's not difficult to see why &ndash; we simply don't know how to fit something like Psalm 44 into our worship. We can't conceive of the idea that worship can involve anger or doubt or questioning. And it's not just Psalm 44 &ndash; a lot of modern Christians wouldn't know how to fit large portions of the Psalter into their worship because the Psalms convey a great deal more than just expressions of joy.</p>
+<p>Why have we turned our worship into an expression of just one feeling or emotion? Odd as it may sound, given the energy and enthusiasm of a lot of modern worship music, this eventually becomes monotonous and even tedious. More than that, however, it is confusing. Stapert is right to call the 'ashes and tears' a countermelody, because without this, you cannot understand joy. Praise is good. Joy is good. But how do we inhabit that praise and that joy if we don't understand them in contrast to their counterparts?</p>
+<p>The fact is that we have become desensitised, and we simply don't know how to <em>feel</em> anymore.</p>
+
+Stapert goes on to discuss the reason for our inability to express different emotions in worship, but I will return to that in the next post. In anticipation of that, let me turn it over to you. Why do you think worship has become focused on just one aspect or feeling, and why do you think we've forgotten that worship involves all kinds of expressions, like the various Psalm writers convey?
