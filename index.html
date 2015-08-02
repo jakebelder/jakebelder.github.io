@@ -1,23 +1,33 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+{% for post in paginator.posts %}
+  <div class="post">
+    <div class="content">
+      <div class="title"><h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2></div>
+      <div class="meta">
+        <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </div>
+      <div class="body-post">
+        {{post.content}}
+        <span style="font-size:0.9em; font-weight:normal; "><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></span>
+      </div><!--end body-->
+    </div><!--end content-->
+    <div class="clear"></div>
+  </div><!--end post-->
+{% endfor %}
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  <ul>
+    {% if paginator.page > 3 %}<a href="/">&lsaquo; First</a>&nbsp;{% endif %}
+    {% if paginator.previous_page %}<li class="prev"><a href="/{{ paginator.page - 1 }}">Prev</a></li>{% endif %}
+    {% if paginator.page > 2 %}<li><a href="/{{ paginator.page - 2 }}">{{ paginator.page - 2 }}</a></li>{% endif %}
+    {% if paginator.page > 1 %}<li><a href="/{{ paginator.page - 1 }}">{{ paginator.page - 1 }}</a></li>{% endif %}
+    <li class="active"><a href="#">{{ paginator.page }}</a></li>
+    {% if paginator.total_pages > paginator.page %}<li><a href="/{{ paginator.page + 1 }}">{{ paginator.page + 1 }}</a></li>{% endif %}
+    {% if paginator.total_pages > paginator.page + 1 %}<li><a href="/{{ paginator.page + 2 }}">{{ paginator.page + 2 }}</a></li>{% endif %}
+    {% if paginator.total_pages > paginator.page %}<li class="next"><a href="/{{ paginator.page + 1 }}">Next</a></li>{% endif %}
+    {% if paginator.total_pages > paginator.page + 2 %}&nbsp;<a href="/{{ paginator.total_pages }}">Last &rsaquo;</a>{% endif %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
+{% endif %}
