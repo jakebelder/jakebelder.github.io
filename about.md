@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: About
 date: 2013-04-13 05:40
-type: Page
+permalink: "/about/"
 ---
 My name is [Jake Belder](http://twitter.com/jakebelder), and I live in [Durham](http://en.wikipedia.org/wiki/Durham,_England) in the northeast of England, where I’m training for ordained ministry in the [Church of England](http://churchofengland.org/) at [Cranmer Hall](http://community.dur.ac.uk/cranmer.hall/) and working towards a [Doctor of Theology and Ministry](http://community.dur.ac.uk/cranmer.hall/study-with-us/postgraduate-courses#doc). I consider [Hamilton, Ontario, Canada](http://en.wikipedia.org/wiki/Hamilton,_Ontario) my hometown.
 
