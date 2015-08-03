@@ -16,3 +16,4 @@ I was watching a documentary on the BBC the other day called *[Das Auto](http://
 <iframe width="640" height="360" src="//www.youtube.com/embed/6Qb0XJ3ysmM?rel=0" frameborder="0" allowfullscreen></iframe><br>
 
 There are clear echoes here of what Smith is arguing in his books. As this short clip demonstrates, BMW know precisely what they are doing. They know that we are desiring beings, they know how worship shapes us, and they have capitalised on this understanding of human nature. If you were unconvinced by Smith’s thesis before, this is just a bit more evidence that he is exactly right.
+
