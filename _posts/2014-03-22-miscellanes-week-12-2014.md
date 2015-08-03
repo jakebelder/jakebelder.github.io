@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Miscellanées (Week 12, 2014)
+permalink: /post/miscellanees-week-12-2014/
 date: 2014-03-22 13:31
 tags:
 - miscellanées
