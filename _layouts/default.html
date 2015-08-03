@@ -8,6 +8,11 @@
     <div class="wrapper">
       <div class="blog">
         <span style="font-family: Amatic SC; font-weight: 700; font-size: 62px; color: #383838; ">Notes in the Margins</span>
+        <div id="menu">
+      {{#pages}}
+        <a href="{{permalink}}">{{title}}</a>
+      {{/pages}}
+      </div>
           <div class="container">
             {{ content }}
           <span style="font-size:small">©2014, Jake Belder. Disclaimer <a href="/paraphernalia">here</a>.</span>
