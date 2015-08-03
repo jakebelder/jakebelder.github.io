@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Anglicanism both hinders and helps the work of theology
+permalink: /post/how-anglicanism-both-hinders-and-helps-the-work-of-theology/
 date: 2015-02-11 20:59
 tags:
 - church-of-england
