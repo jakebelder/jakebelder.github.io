@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Miscellanées (Week 37, 2013)
+permalink: /post/miscellanees-week-37-2013/
 date: 2013-09-15 21:37
 tags:
 - miscellanées
