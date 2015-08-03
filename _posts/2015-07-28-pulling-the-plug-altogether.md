@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pulling the plug for good
-permalink: /pulling-the-plug-for-good/
+permalink: /post/pulling-the-plug-for-good/
 date: 2015-07-28 21:10
 tags:
 - personal
