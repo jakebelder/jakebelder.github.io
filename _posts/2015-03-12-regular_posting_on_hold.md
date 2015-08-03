@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Regular posting on hold until May
+permalink: /post/regular-posting-on-hold-until-may/
 date: 2015-03-12 9:27
 tags:
 - personal
