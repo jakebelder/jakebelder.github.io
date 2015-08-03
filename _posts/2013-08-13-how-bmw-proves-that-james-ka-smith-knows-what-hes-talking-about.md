@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How BMW proves that James K.A. Smith knows what he's talking about
+permalink: /post/how-bmw-proves-that-james-k.-a.-smith-knows-what-hes-talking-about/
 date: 2013-08-13 14:00
 tags:
 - james-k-a-smith
