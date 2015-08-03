@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Reformation Day a celebration of disunity?
+permalink: /post/is-reformation-day-a-celebration-of-disunity/
 date: 31 October 2014 09:43
 tags:
 - church-history
