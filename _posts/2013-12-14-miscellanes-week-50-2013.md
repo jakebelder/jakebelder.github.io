@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Miscellanées (Week 50, 2013)
+permalink: /post/miscellanees-week-50-2013/
 date: 2013-12-14 14:56
 tags:
 - miscellanées
