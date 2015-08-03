@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An interesting argument against a limiting practice in the church
+permalink: /post/an-interesting-argument-against-a-limiting-practice-in-the-church/
 date: 2014-04-23 16:22
 tags:
 - joel-willitts
