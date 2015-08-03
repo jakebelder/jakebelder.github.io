@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Miscellanées (Week 43, 2013)
+permalink: /post/miscellanees-week-43-2013/
 date: 2013-10-26 14:10
 tags:
 - miscellanées
