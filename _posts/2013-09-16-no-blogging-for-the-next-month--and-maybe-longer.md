@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No blogging for the next month – and maybe longer
+permalink: /post/no-blogging-for-the-next-month-and-maybe-longer/
 date: 2013-09-16 09:03
 tags:
 - personal
