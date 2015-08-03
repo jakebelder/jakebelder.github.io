@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Should we drop the term 'apologetics'?
+permalink: /post/should-we-drop-the-term-apologetics/
 date: 2014-11-18 13:00
 tags:
 - mission
