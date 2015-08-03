@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Redemption and the hope of 'no more'
+permalink: /post/redemption-and-the-hope-of-no-more/
 date: 2014-04-15 16:09
 tags:
 - jesus-christ
