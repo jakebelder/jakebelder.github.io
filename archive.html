@@ -10,7 +10,7 @@ permalink: /archive/
 
   <div class="post">
     {% if forloop.first || this_year != next_year || this_month != next_month %}
-    <div class="archive-divider divider_1"><h2>{{ this_year }}, {{ this_month }}</h2></div>
+    <div class="archive-divider divider_1"><h2>Post Archive</h2></div>
     {% endif %}
     <div class="archive-content">
       <div class="archive-title"><h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4></div>
