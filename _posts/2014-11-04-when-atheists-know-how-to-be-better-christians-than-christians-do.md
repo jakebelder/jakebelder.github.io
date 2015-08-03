@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When atheists know how to be better Christians than we do
+permalink: /post/when-atheists-know-how-to-be-better-christians-than-we-do/
 date: 2014-11-04 14:06
 tags:
 - atheism
