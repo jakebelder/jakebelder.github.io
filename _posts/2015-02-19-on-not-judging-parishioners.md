@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stop calling people 'nominal' Christians
+permalink: /post/stop-calling-people-nominal-christians/
 date: 2015-02-19 20:20
 tags:
 - ministry
