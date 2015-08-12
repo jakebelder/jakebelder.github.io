@@ -4,39 +4,12 @@ layout: default
 {% for post in paginator.posts %}
   <div class="post">
     <div class="content">
-      <div class="title"><h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2></div>
-      <div class="meta">
-        <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </div>
+      <div class="title"><h2>This blog is no longer active</h2></div>
       <div class="body-post">
-        {{post.content}}
-        <span style="font-size:0.9em; font-weight:normal; "><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></span>
-      </div><!--end body-->
+        Thank you for visiting this blog. In July 2015, I decided it was time to step away from blogging, and as a result, no new posts are being added here. All previous posts have been archived, however, <a href="http://blog.jakebelder.com/archive"></a>and you can view them here</a>. 
+        </div><!--end body-->
     </div><!--end content-->
     <div class="clear"></div>
   </div><!--end post-->
 {% endfor %}
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  <ul>
-    {% if paginator.page > 3 %}<a href="/">&lsaquo; First</a>&nbsp;{% endif %}
-    {% if paginator.previous_page %}<li class="prev"><a href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">Prev</a></li>{% endif %}
-    {% if paginator.page > 3 %}
-    <li><a href="/{{ paginator.page | minus: 2 }}/">{{ paginator.page | minus: 2 }}</a></li>
-    {% elsif paginator.page > 2 %}
-    <li><a href="/">1</a></li>
-    {% endif %}
-    {% if paginator.page > 2 %}
-    <li><a href="/{{ paginator.page | minus: 1 }}/">{{ paginator.page | minus: 1 }}</a></li>
-    {% elsif paginator.page > 1 %}
-    <li><a href="/">1</a></li>
-    {% endif %}
-    <li class="active"><a href="#">{{ paginator.page }}</a></li>
-    {% if paginator.total_pages > paginator.page %}<li><a href="/{{ paginator.page | plus: 1 }}/">{{ paginator.page | plus: 1 }}</a></li>{% endif %}
-    {% if paginator.total_pages > paginator.next_page %}<li><a href="/{{ paginator.page | plus: 2 }}/">{{ paginator.page | plus: 2 }}</a></li>{% endif %}
-    {% if paginator.next_page %}<li class="next"><a href="{{ paginator.next_page_path | replace: 'index.html', '' }}">Next</a></li>{% endif %}
-    {% assign next_page_plus_one = paginator.next_page | plus: 1 %}
-    {% if paginator.total_pages > next_page_plus_one %}&nbsp;<a href="/{{ paginator.total_pages }}/">Last &rsaquo;</a>{% endif %}
-  </ul>
-</div>
 {% endif %}
