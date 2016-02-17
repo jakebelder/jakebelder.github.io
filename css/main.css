@@ -178,11 +178,10 @@ hr {
   float: left;
   margin-left: 0px;
   margin-top: 0px;
-  font: 16.5px/1.5 'Source Sans Pro', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font: 16.5px/1.5 Helvetica, Arial, sans-serif;
+  font-weight: normal;
   letter-spacing: 0.7px;
     line-height: 1.8em;
-  text-shadow: 0.5px 0px 1.9px #7f7f7f;
 }
 
 .body-page {
