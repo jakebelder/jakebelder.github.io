@@ -3,7 +3,7 @@
 body {
   background: #fff;
   color: #383838;
-  font: 16px/1.5 'Source Sans Pro' Helvetica, Arial, sans-serif;
+  font: 16px/1.5 'Source Sans Pro', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0px;
   padding-top: 10px;
@@ -178,16 +178,16 @@ hr {
   float: left;
   margin-left: 0px;
   margin-top: 0px;
-  font: 16.5px/1.5 'Source Sans Pro' Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font: 16.5px/1.5 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-weight: 400;
   letter-spacing: 0.7px;
     line-height: 1.8em;
     text-shadow: 0.5px 0px 0.3px #7f7f7f;
 }
 
 .body-page {
-  font: 16.5px/1.5 'Source Sans Pro' Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font: 16.5px/1.5 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-weight: 400;
   letter-spacing: 0.7px;
   line-height: 1.8em;
   text-shadow: 0.5px 0px 0.3px #7f7f7f;
