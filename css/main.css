@@ -178,8 +178,8 @@ hr {
   float: left;
   margin-left: 0px;
   margin-top: 0px;
-  font: 16.5px/1.5 'Source Sans Pro', Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font: 16.5px/1.5 'Palatino Linotype', Helvetica, Arial, sans-serif;
+  font-weight: 300;
   letter-spacing: 0.7px;
     line-height: 1.8em;
     text-shadow: 0.5px 0px 0.3px #7f7f7f;
@@ -187,7 +187,7 @@ hr {
 
 .body-page {
   font: 16.5px/1.5 'Source Sans Pro', Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 0.7px;
   line-height: 1.8em;
   text-shadow: 0.5px 0px 0.3px #7f7f7f;
