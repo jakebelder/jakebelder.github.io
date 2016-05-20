@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book review: ''A Wilderness of Mirrors'''
-date: 2016-05-20 12:00
+date: 2016-05-20 11:15
 tags:
 - book-reviews
 - Mark-Meynell
