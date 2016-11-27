@@ -9,7 +9,7 @@ tags:
 - tradition
 - worship
 ---
-<p><iframe src="//player.vimeo.com/video/79923336" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/viDTdesWGfo?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 [The video above provides a really helpful introduction to the Church calendar](https://vimeo.com/79923336) and the significance of the different seasons throughout the year. Although I didn't grow up in a context where the Church year was observed (with the exception of the major feast days), it is something I have come to deeply appreciate, and I think following the liturgical calendar is of great benefit to the shaping of the life of the Church, for a few different reasons.
 
