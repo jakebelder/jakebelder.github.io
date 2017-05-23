@@ -18,7 +18,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url('https://github.com/jakebelder/jakebelder.github.io/blob/master/assets/espoo.png');
+  background-image: url('/assets/IMG_20161228_122809_169.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
