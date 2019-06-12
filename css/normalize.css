@@ -18,8 +18,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #7f7f7f7;
-  background-image: url('none');
+  background-image: url('/assets/gradient.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
