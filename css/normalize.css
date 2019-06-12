@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #7f7f7f7;
   background-image: url('none');
   background-size: cover;
   background-repeat: no-repeat;
