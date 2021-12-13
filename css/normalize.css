@@ -19,6 +19,8 @@ html {
 body {
   margin: 0;
   background-image: url('/assets/PSX_20210320_115255.jpeg');
+  max-width: 100%;
+  height: auto;
 }
 
 
